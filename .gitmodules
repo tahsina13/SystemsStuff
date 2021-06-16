@@ -1,0 +1,76 @@
+[submodule "02_vars"]
+	path = 02_vars
+	url = https://github.com/TahsinAhmed13/02_vars.git
+	branch = master
+[submodule "03_euler"]
+	path = 03_euler
+	url = https://github.com/TahsinAhmed13/03_euler.git
+	branch = master
+[submodule "04_make"]
+	path = 04_make
+	url = https://github.com/TahsinAhmed13/04_make.git
+	branch = master
+[submodule "05_pointers"]
+	path = 05_pointers
+	url = https://github.com/TahsinAhmed13/05_pointers.git
+	branch = master
+[submodule "06_switcheroo"]
+	path = 06_switcheroo
+	url = https://github.com/TahsinAhmed13/06_switcheroo.git
+	branch = master
+[submodule "07_arpstring"]
+	path = 07_arpstring
+	url = https://github.com/TahsinAhmed13/07_arpstring.git
+	branch = master
+[submodule "08_mystring"]
+	path = 08_mystring
+	url = https://github.com/TahsinAhmed13/08_mystring.git
+	branch = master
+[submodule "09_construction"]
+	path = 09_construction
+	url = https://github.com/TahsinAhmed13/09_construction.git
+	branch = master
+[submodule "10_list"]
+	path = 10_list
+	url = https://github.com/TahsinAhmed13/10_list.git
+	branch = master
+[submodule "11_randfile"]
+	path = 11_randfile
+	url = https://github.com/TahsinAhmed13/11_randfile.git
+	branch = master
+[submodule "12_dirinfo"]
+	path = 12_dirinfo
+	url = https://github.com/TahsinAhmed13/12_dirinfo.git
+	branch = master
+[submodule "13_signal"]
+	path = 13_signal
+	url = https://github.com/TahsinAhmed13/13_signal.git
+	branch = master
+[submodule "14_parse_args"]
+	path = 14_parse_args
+	url = https://github.com/TahsinAhmed13/14_parse_args.git
+	branch = master
+[submodule "15_forkin"]
+	path = 15_forkin
+	url = https://github.com/TahsinAhmed13/15_forkin.git
+	branch = master
+[submodule "16_plumbing"]
+	path = 16_plumbing
+	url = https://github.com/TahsinAhmed13/16_plumbing.git
+	branch = master
+[submodule "17_server"]
+	path = 17_server
+	url = https://github.com/TahsinAhmed13/17_server.git
+	branch = master
+[submodule "myTunes"]
+	path = myTunes
+	url = https://github.com/TahsinAhmed13/myTunes.git
+	branch = main
+[submodule "tmjsh"]
+	path = tmjsh
+	url = https://github.com/TahsinAhmed13/tmjsh.git
+	branch = main
+[submodule "StickyFingers"]
+	path = StickyFingers
+	url = https://github.com/TahsinAhmed13/StickyFingers.git
+	branch = main
