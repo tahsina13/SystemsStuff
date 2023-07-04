@@ -1,6 +1,6 @@
 # Systems Stuff
 
-A repo for all my systems assignments. 
+A repo for all my systems assignments for mks65 at Stuyvesant High School.
 
 ## Homework 
 
